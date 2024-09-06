@@ -1,0 +1,6 @@
+---
+id: {{ID}}
+aliases: {{ALIASES}}
+tags: {{TAGS}}
+title: {{TITLE}}
+---
